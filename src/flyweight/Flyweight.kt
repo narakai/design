@@ -1,4 +1,4 @@
-package Flyweight
+package flyweight
 
 import java.util.*
 import java.util.concurrent.ConcurrentHashMap
